@@ -3,6 +3,13 @@
 
 
     <url>
+        <loc>http://yoursite.com/tags/%25E5%2586%2585%25E5%25BF%2583%25E4%25B8%2596%25E7%2595%258C/</loc>
+        <lastmod>2020-04-21T12:24:41.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://yoursite.com/tags/%25E9%259A%258F%25E7%25AC%2594/</loc>
         <lastmod>2020-04-21T05:26:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -18,13 +25,6 @@
 
     <url>
         <loc>http://yoursite.com/tags/%25E6%259C%2589%25E6%2584%259F/</loc>
-        <lastmod>2020-04-21T05:26:58.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://yoursite.com/tags/%25E5%2586%2585%25E5%25BF%2583%25E4%25B8%2596%25E7%2595%258C/</loc>
         <lastmod>2020-04-21T05:26:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
