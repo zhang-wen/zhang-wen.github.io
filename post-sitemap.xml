@@ -16,6 +16,14 @@
     </url>
 
     <url>
+        <loc>http://yoursite.com/2015/11/29/11.29/</loc>
+        <lastmod>2020-04-21T05:26:58.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://yoursite.com/2015/12/01/12.01/</loc>
         <lastmod>2020-04-21T05:26:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -40,7 +48,7 @@
     </url>
 
     <url>
-        <loc>http://yoursite.com/2015/12/10/12.10/</loc>
+        <loc>http://yoursite.com/2015/12/19/12.19/</loc>
         <lastmod>2020-04-21T05:26:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -48,7 +56,7 @@
     </url>
 
     <url>
-        <loc>http://yoursite.com/2015/12/19/12.19/</loc>
+        <loc>http://yoursite.com/2015/12/10/12.10/</loc>
         <lastmod>2020-04-21T05:26:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -64,23 +72,7 @@
     </url>
 
     <url>
-        <loc>http://yoursite.com/2015/11/15/best_friend/</loc>
-        <lastmod>2020-04-21T05:26:58.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>http://yoursite.com/2015/11/10/%E5%81%A5%E8%BA%AB%E6%88%BF/</loc>
-        <lastmod>2020-04-21T05:26:58.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://yoursite.com/2016/05/16/%E5%A4%96%E5%A9%86%E7%97%85%E9%87%8D/</loc>
         <lastmod>2020-04-21T05:26:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -96,7 +88,7 @@
     </url>
 
     <url>
-        <loc>http://yoursite.com/2015/11/09/%E8%BF%94%E4%BA%AC/</loc>
+        <loc>http://yoursite.com/2016/05/16/%E5%A4%96%E5%A9%86%E7%97%85%E9%87%8D/</loc>
         <lastmod>2020-04-21T05:26:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -112,7 +104,7 @@
     </url>
 
     <url>
-        <loc>http://yoursite.com/2015/11/29/11.29/</loc>
+        <loc>http://yoursite.com/2015/11/09/%E8%BF%94%E4%BA%AC/</loc>
         <lastmod>2020-04-21T05:26:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -120,7 +112,7 @@
     </url>
 
     <url>
-        <loc>http://yoursite.com/2015/11/27/11.27/</loc>
+        <loc>http://yoursite.com/2015/11/15/best_friend/</loc>
         <lastmod>2020-04-21T05:26:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -129,6 +121,14 @@
 
     <url>
         <loc>http://yoursite.com/2015/11/25/11.25/</loc>
+        <lastmod>2020-04-21T05:26:58.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://yoursite.com/2015/11/27/11.27/</loc>
         <lastmod>2020-04-21T05:26:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
