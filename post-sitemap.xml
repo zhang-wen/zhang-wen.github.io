@@ -9,7 +9,7 @@
 
     <url>
         <loc>http://yoursite.com/2020/04/21/2020.4.14/</loc>
-        <lastmod>2020-04-21T12:24:41.000Z</lastmod>
+        <lastmod>2020-04-21T14:01:05.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -96,7 +96,7 @@
     </url>
 
     <url>
-        <loc>http://yoursite.com/2016/05/16/%E5%A4%96%E5%A9%86%E7%97%85%E9%87%8D/</loc>
+        <loc>http://yoursite.com/2015/11/14/%E7%9B%B8%E4%BA%B2/</loc>
         <lastmod>2020-04-21T05:26:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -104,7 +104,7 @@
     </url>
 
     <url>
-        <loc>http://yoursite.com/2015/11/14/%E7%9B%B8%E4%BA%B2/</loc>
+        <loc>http://yoursite.com/2016/05/16/%E5%A4%96%E5%A9%86%E7%97%85%E9%87%8D/</loc>
         <lastmod>2020-04-21T05:26:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
