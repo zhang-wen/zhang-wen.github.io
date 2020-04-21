@@ -48,6 +48,14 @@
     </url>
 
     <url>
+        <loc>http://yoursite.com/2015/12/10/12.10/</loc>
+        <lastmod>2020-04-21T05:26:58.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://yoursite.com/2015/12/19/12.19/</loc>
         <lastmod>2020-04-21T05:26:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -65,14 +73,6 @@
 
     <url>
         <loc>http://yoursite.com/2015/11/15/best_friend/</loc>
-        <lastmod>2020-04-21T05:26:58.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://yoursite.com/2015/12/10/12.10/</loc>
         <lastmod>2020-04-21T05:26:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
