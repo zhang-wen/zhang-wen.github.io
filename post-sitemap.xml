@@ -16,23 +16,7 @@
     </url>
 
     <url>
-        <loc>http://yoursite.com/2015/12/02/12.01%E9%9B%BE%E9%9C%BE%E4%BA%94%E4%BA%BA%E7%BB%84/</loc>
-        <lastmod>2020-04-21T05:26:58.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>http://yoursite.com/2015/11/29/11.29/</loc>
-        <lastmod>2020-04-21T05:26:58.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://yoursite.com/2015/12/04/12.04/</loc>
         <lastmod>2020-04-21T05:26:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -48,7 +32,15 @@
     </url>
 
     <url>
-        <loc>http://yoursite.com/2015/12/19/12.19/</loc>
+        <loc>http://yoursite.com/2015/12/02/12.01%E9%9B%BE%E9%9C%BE%E4%BA%94%E4%BA%BA%E7%BB%84/</loc>
+        <lastmod>2020-04-21T05:26:58.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://yoursite.com/2015/12/04/12.04/</loc>
         <lastmod>2020-04-21T05:26:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -57,6 +49,14 @@
 
     <url>
         <loc>http://yoursite.com/2015/12/10/12.10/</loc>
+        <lastmod>2020-04-21T05:26:58.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://yoursite.com/2015/12/19/12.19/</loc>
         <lastmod>2020-04-21T05:26:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
